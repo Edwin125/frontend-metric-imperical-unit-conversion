@@ -80,7 +80,7 @@ body {
 #info-box{
     display: block;
     width: 550px;
-    padding: 35px 0;
+    padding-bottom: 1px;
 }
 
 .info{
